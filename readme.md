@@ -3,6 +3,10 @@
 
 HideKarma simply prevents the karma counters from showing on both the userpage (`/u/`) and your profile.
 
+### But why?
+I find that the counter aims to compare users and content, however, there are many users who have gained lots of karma from posting thousands of terrible comments / posts.
+This allows you to view a user's profile without caring about their karma.
+
 ## Installation
 
 1. Clone the repository to a folder on your computer
