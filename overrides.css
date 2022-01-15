@@ -1,0 +1,9 @@
+/* Hide karma count from profile */
+#SHORTCUT_FOCUSABLE_DIV>div:nth-child(4)>div>div>div>div._3ozFtOe6WpJEMUtxDOIvtU>div._31N0dvxfpsO6Ur5AKx4O5d>div._3Kd8DQpBIbsr5E1JcrMFTY._1tvThPWQpORoc2taKebHxs>div>div._27SH1SRzjtOk_2NB2YC-FR>div>div._3odBTM7RqvRgN1nvkf5k8B>div:nth-child(1) {
+    display: none;
+}
+
+/* Hide karma count from icon */
+#email-collection-tooltip-id>span>span.Rz5N3cHNgTGZsIQJqBfgk {
+    display: none;
+}

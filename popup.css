@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    height: auto;
+    width: 20rem;
+    margin: 0;
+}
+
+div.container#main {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 69, 0);
+    border: 5px solid black;
+    border-radius: 1rem;
+    text-align: center;
+    padding: 0.5rem;
+    color: white;
+
+}
