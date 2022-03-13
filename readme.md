@@ -1,4 +1,4 @@
-![HideKarma Icon](icon/logo.png)
+![HideKarma Icon](/resource/image/icon/logo.png)
 ## A simple chrome extension to hide the karma count
 
 HideKarma simply prevents the karma counters from showing on both the userpage (`/u/`) and your profile.
