@@ -7,3 +7,8 @@
 #email-collection-tooltip-id>span>span.Rz5N3cHNgTGZsIQJqBfgk {
     display: none;
 }
+
+/* Hide karma count from popup */
+div._1T5Mo-6GI-SCbGJJ9xZ2N7 {
+    display: none;
+}
