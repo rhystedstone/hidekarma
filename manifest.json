@@ -2,7 +2,7 @@
     "name": "Hide Reddit Karma",
     "short_name": "Hide Karma",
     "description": "Hide karma displays on reddit.com",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "manifest_version": 3,
     "content_scripts": [
         {
@@ -10,25 +10,25 @@
                 "https://*.reddit.com/*"
             ],
             "css": [
-                "overrides.css"
+                "/resource/css/overrides.css"
             ]
         }
     ],
     "action": {
-        "default_popup": "popup.html",
+        "default_popup": "/resource/html/popup.html",
         "default_icon": {
-            "16": "/icon/icon16.png",
-            "32": "/icon/icon32.png",
-            "48": "/icon/icon48.png",
-            "128": "/icon/icon128.png",
-            "280": "/icon/icon280.png"
+            "16": "/resource/image/icon/icon16.png",
+            "32": "/resource/image/icon/icon32.png",
+            "48": "/resource/image/icon/icon48.png",
+            "128": "/resource/image/icon/icon128.png",
+            "280": "/resource/image/icon/icon280.png"
         }
     },
     "icons": {
-        "16": "/icon/icon16.png",
-        "32": "/icon/icon32.png",
-        "48": "/icon/icon48.png",
-        "128": "/icon/icon128.png",
-        "280": "/icon/icon280.png"
+        "16": "/resource/image/icon/icon16.png",
+        "32": "/resource/image/icon/icon32.png",
+        "48": "/resource/image/icon/icon48.png",
+        "128": "/resource/image/icon/icon128.png",
+        "280": "/resource/image/icon/icon280.png"
     }
 }
