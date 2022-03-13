@@ -1,7 +1,7 @@
 {
     "name": "Hide Reddit Karma",
     "short_name": "Hide Karma",
-    "description": "Hide karma displays on reddit.com",
+    "description": "Hide Karma on Reddit.com",
     "version": "1.1.0",
     "manifest_version": 3,
     "content_scripts": [
